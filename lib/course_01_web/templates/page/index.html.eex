@@ -1,22 +1,22 @@
 <h1>Course, Basic</h1>
 <p>
 <pre>
-    For each h3 element below make a scope int the router.
+    For each h3 element below make a scope into the router.
     Make routes in the scope as you need
     lists of items are somewhat random. organize into logical sections
-    check caniuse.com for compatibility in html css and js and suported Browsers
+    check caniuse.com for compatibility in html css and js and supported Browsers
     Note deprecated and obsolete elements
     check MDN and devhints.io for info
     COPY PASTE CODE IS NOT ALLOWED
     Style the app
-    Describe your thought process as much as possible 
-    
+    Describe your thought process as much as possible
+
     </pre>
 </p>
 <h3>Planning and problem solving</h3>
 <dl>
 <dt>Planning</dt>
-<dd>descripe how you plan projects</dd>
+<dd>describe how you plan projects</dd>
 <dt>problem solving</dt>
 <dd>describe 1-3 problem solving techniques you use </dd>
 <dd>explain differences in solo and team work. Describe how you work in teams</dd>
@@ -31,8 +31,8 @@ pull reset config reset unstage stash push merge rebase clone remote branch blam
 </ul>
 <h3>HTML</h3>
 <p>
-    for each item in dl make below this paragrap; make a description and give examples of use
-    make routes and view at your discression
+    for each item in dl make below this paragraph; make a description and give examples of use
+    make routes and view at your discretion
 </p>
 <dl>
     <dt>Tags</dt>
@@ -100,12 +100,12 @@ pull reset config reset unstage stash push merge rebase clone remote branch blam
     <dd>select</dd>
     <dd>hr</dd>
     <dd>iframe</dd>
-    <dd>Add,describe and give example of 20 more attributes and which tags they can be used with </dd>
+    <dd>Add, describe and give example of 20 more attributes and which tags they can be used with </dd>
 </dl>
 <h3>CSS</h3>
 <p>
-    for each item in dl make below this paragrap; make a description and give examples of use
-    make routes and view at your discression
+    for each item in dl make below this paragraph; make a description and give examples of use
+    make routes and view at your discretion
 </p>
 <dl>
     <dt>Basics</dt>
@@ -159,8 +159,8 @@ pull reset config reset unstage stash push merge rebase clone remote branch blam
     <dd>:visited</dd>
     <dt>CSS Variables</dt>
     <p>
-        explain and show example and use cases of css variables 
-        what are limitations show atleast 5 examples of variables use
+        explain and show example and use cases of css variables
+        what are limitations show at least 5 examples of variables use
     </p>
     <dt>css grid layout</dt>
     <dd> What is css grid, how does it work use visual examples.</dd>
@@ -177,11 +177,11 @@ use App.js for examples
 </p>
 <dl>
 <dt>Variables and data </dt>
-<dd>explain and list all variable types show examples </dd>   
+<dd>explain and list all variable types show examples </dd>
 <dt>Operators</dt>
-<dd>explain and list all operators show examples </dd>  
+<dd>explain and list all operators show examples </dd>
 <dt>Logic flow</dt>
- <dd>Explain and show examples of if ,switch case</dd>   
+ <dd>Explain and show examples of if ,switch case</dd>
 <dt>Arrays</dt>
 <dd>Explain arrays and give use case</dd>
 <dt>Functions</dt>
@@ -194,7 +194,7 @@ use App.js for examples
 <dd>What are scopes how do they work , give examples</dd>
 <dt>misc</dt>
 <dd>What is JSON explain and give examples</dd>
-<dd>whats es6/ES2015+</dd>
+<dd>what's es6/ES2015+</dd>
 <dd>give examples of prominent es6/es2015/ features</dd>
 </dl>
 <h3>Elixir</h3>
@@ -219,13 +219,13 @@ use App.js for examples
     <dd>tuples</dd>
     <dd>map</dd>
     <dd>mapset</dd>
-    <dd>struct</dd>  
+    <dd>struct</dd>
     <dd>keyword list</dd>
     <dt>Pattern matching</dt>
     <dd>Explain pattern matching , give use cases and examples</dd>
     <dd>where is pattern matching use and why is it a good thing</dd>
     <dt>Modules and functions</dt>
-    <dd>Explain Modules and functions give example</dd>   
+    <dd>Explain Modules and functions give example</dd>
     <dd>Explain and give use cases for modules and functions</dd>
     <dt>Recursion</dt>
     <dd>Explain recursion give examples and why do we use it</dd>
@@ -233,11 +233,11 @@ use App.js for examples
     <dd>Explain comprehensions</dd>
     <dt>Enumerable</dt>
     <dd>Give an overview of the enumerable module</dd>
-    <dd>explain Enum.map and 5 other freely chose functions in this module</dd>
+    <dd>explain Enum.map and 5 other freely choose functions in this module</dd>
     <dt>EXUnit</dt>
     <dd>Make a basic module and functions and test it</dd>
     <dt>What else is there</dt>
-    <dd>Look through https://hexdocs.pm/elixir/Kernel.html. What else would you highlight and why ?</dd>   
+    <dd>Look through https://hexdocs.pm/elixir/Kernel.html. What else would you highlight and why ?</dd>
     <dd>What are apis and give an example of a phoenix API</dd>
 </dl>
 <p>
@@ -272,17 +272,17 @@ use App.js for examples
 <dd>Ecto . associations what are they ? why and how do we use them ? </dd>
 <dd>Ecto Embedded what is it , give examples</dd>
 <dt>Tasks</dt>
-<dd>Display simple data on screen from database, ie names adress etc</dd>
-<dd>display relational data on screen , ie a blog post with comments </dd>
+<dd>Display simple data on screen from database, i.e names address etc</dd>
+<dd>display relational data on screen , i.e a blog post with comments </dd>
 <dd>Give example of embedded data</dd>
 </dl>
 <h3>Micro patterns</h3>
-<p>
-describe atleast 10 micropatterns you can use.
+<p>s
+describe at least 10 micropatterns you can use.
 </p>
 <h3>Polish</h3>
 <p>
-Polish the app with css 
+Polish the app with css
 Fix typos
-read your answers atleast once
+read your answers at least once
 </p>
