@@ -1,0 +1,24 @@
+h1{font-size: 2rem;}
+h2{font-size: 1.7rem;}
+h3{font-size: 1.5rem;}
+h4{font-size: 1.2rem;}
+h5{font-size: 1rem;}
+h6{font-size: 0.9rem;}
+
+
+
+.lae-textbase{
+  color: #d5dae6;
+}
+.lae-success{
+  color: green;
+}
+.lae-info{
+  color: blue;
+}
+.lae-warning{
+  color: orange;
+}
+.lae-danger{
+color: red;
+}

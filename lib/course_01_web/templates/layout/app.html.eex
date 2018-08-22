@@ -11,12 +11,12 @@
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
 
-  <body>
-
+  <body class=" lae-background">
+    <div class="">
       <main role="main">
         <%= render @view_module, @view_template, assigns %>
       </main>
-
+    </div>
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
   </body>
 </html>

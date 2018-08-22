@@ -17,6 +17,9 @@ defmodule Course01Web.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+    get "/html", HtmlController, :index
+    get "/css", CssController, :index
+    get "/javascript", JsController, :index
   end
 
   # Other scopes may use custom stacks.

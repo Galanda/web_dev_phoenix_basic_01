@@ -1,0 +1,77 @@
+<div class="lae-sidebar lae-primary">
+<div class="">
+  <h1 class="lae-textbase">CSS</h1>
+  <h4>Basics</h4>
+</div>
+</div>
+<div class="lae-main lae-background lae-air-l-05">
+  <p><h3>CSS</h3>
+  <p>
+      for each item in dl make below this paragraph; make a description and give examples of use
+      make routes and view at your discretion
+  </p>
+  <dl>
+      <dt>Basics</dt>
+      <dd>Explain how css works give examples</dd>
+      <dd>Describe Element, class and id selectors</dd>
+      <dd>Describe a css property</dd>
+      <dd>Describe every way a class id and element can be combined as a selector</dd>
+      <dd>Describe the CSS box model show examples </dd>
+      <dt>Properties</dt>
+      <dd>List all your most used css properties explain and use examples</dd>
+      <dd>list all your least used properties </dd>
+      <dt>Pseudo Classes</dt>
+      <dd>what is a pseudo class</dd>
+      <dd>:Active</dd>
+      <dd>:checked</dd>
+      <dd>:default</dd>
+      <dd>:defined</dd>
+      <dd>:disabled</dd>
+      <dd>:empty</dd>
+      <dd>:enabled</dd>
+      <dd>:first</dd>
+      <dd>:first-child</dd>
+      <dd>:first-of-type</dd>
+      <dd>:focus</dd>
+      <dd>:focus-within</dd>
+      <dd>:hover</dd>
+      <dd>:indeterminate</dd>
+      <dd>:in-range</dd>
+      <dd>:invalid</dd>
+      <dd>:lang()</dd>
+      <dd>:last-child</dd>
+      <dd>:last-of-type</dd>
+      <dd>:left</dd>
+      <dd>:link</dd>
+      <dd>:not()</dd>
+      <dd>:nth-child()</dd>
+      <dd>:nth-of-type()</dd>
+      <dd>:nth-last-child()</dd>
+      <dd>:only-child()</dd>
+      <dd>:only-of-type</dd>
+      <dd>:optional</dd>
+      <dd>:out-of-range</dd>
+      <dd>:read-only</dd>
+      <dd>:read-write</dd>
+      <dd>:required</dd>
+      <dd>:right</dd>
+      <dd>:root</dd>
+      <dd>:scope</dd>
+      <dd>:target</dd>
+      <dd>:valid</dd>
+      <dd>:visited</dd>
+      <dt>CSS Variables</dt>
+      <p>
+          explain and show example and use cases of css variables
+          what are limitations show at least 5 examples of variables use
+      </p>
+      <dt>css grid layout</dt>
+      <dd> What is css grid, how does it work use visual examples.</dd>
+      <dd>Show the various ways to create a grid</dd>
+      <dt>Flexbox</dt>
+      <dd>Show examples of use and explain how flexbox work</dd>
+      <dt>Animation</dt>
+      <dd>give examples of @animation use and transitions </dd>
+      <dd>Make examples of animations</dd>
+  </dl></p>
+</div>
